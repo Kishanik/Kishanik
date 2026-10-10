@@ -1,4 +1,4 @@
-Hi, I'm Kishanik! 👋
+Hi, I'm Kishanik!
 
 🎓 First-Year Electronics and Communication Engineering (ECE) Student
 
@@ -25,6 +25,6 @@ Hi, I'm Kishanik! 👋
 🚀 Projects
 
 - Smart Plant Irrigation System — add your project repository link here.
- https://lnkd.in/p/g36XiK_4
+ https://lnkd.in/p/g36XiK_4. and   participating in many more..
 
 Thanks for visiting my profile!!
