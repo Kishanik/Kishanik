@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Kishanik! 👋
 
-<!--
-**Kishanik/Kishanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Electronics and Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+💻 Currently learning C++ and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Interested in electronics, embedded systems, Arduino, and IoT.
+
+🌱 Learning by building small projects and exploring new technologies.
+
+🎯 My Goals
+
+- Improve my coding skills step by step.
+- Build practical electronics projects.
+- Participate in hackathons and project expos.
+- Explore embedded systems and VLSI design.
+
+🛠️ Currently Learning
+
+- C++
+- Basic Electronics
+- Arduino and Sensors
+- Git and GitHub
+
+🚀 Projects
+
+- Smart Plant Irrigation System — add your project repository link here.
+ https://lnkd.in/p/g36XiK_4
+
+Thanks for visiting my profile!!
