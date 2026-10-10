@@ -20,7 +20,8 @@ Hi, I'm Kishanik!
 - C++
 - Basic Electronics
 - Arduino and Sensors
-- Git and GitHub
+- Robotics 
+_ Research in IOT
 
 🚀 Projects
 
